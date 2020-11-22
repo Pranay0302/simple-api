@@ -13,7 +13,7 @@ Make sure you have mongoDB service running
 I have added a localhost url along with a port for now
 .env.example is just an example to show how a .env file will look like (don't alter)
 
-> http://localhost:${PORT}/check to check the json data.
+> http://localhost:${PORT}/check to check the json data (dummy data). 
 
 > Will be adding more features (still incomplete)
 
