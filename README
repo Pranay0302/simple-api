@@ -1,0 +1,20 @@
+> This is just a simple rest api made using node.js express and mongodb along with mongoose
+
+TOOLS used: 
+
+- Insomnia
+- mongoDB Compass
+
+Clone this repo
+Make sure you install all the dependencies
+Make sure you have mongoDB service running
+ `npm run start` to start the proj
+
+I have added a localhost url along with a port for now
+.env.example is just an example to show how a .env file will look like (don't alter)
+
+> http://localhost:${PORT}/check to check the json data.
+
+> Will be adding more features (still incomplete)
+
+[idea]: derived from anime-chan api 
